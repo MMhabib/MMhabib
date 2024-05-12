@@ -4,7 +4,10 @@ Hi  My name is M.M Habib
 Full Stack Web Developer
 ------------------------
 
-* 🌍  I'm based in Bangladesh
+<ul>
+      <li><a href="mailto:mmhabib@example.com">Email: mmhabib@example.com</a></li>
+      <li><a href="https://www.linkedin.com/in/mmhabib">LinkedIn: linkedin.com/in/mmhabib</a></li>
+      </ul>
 
 ### Skills
 
