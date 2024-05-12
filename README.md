@@ -1,9 +1,12 @@
 Hi  My name is M.M Habib
 ==========================
-<div style="width: 300px; margin: 0 auto;">
-  Full Stack Web Developer
-  <br>
-  ------------------------
+
+ <div style="display: flex; justify-content: center; align-items: center;">
+  <div>
+    Full Stack Web Developer
+    <br>
+    ------------------------
+  </div>
 </div>
 
 ### Skills
