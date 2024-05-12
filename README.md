@@ -1,5 +1,5 @@
 <div id="banner">
-   <img src="https://i.ibb.co/k97Vkjp/M-M-Habib.png" alt="M.M Habib" width="200" height="100" border="0">
+   <img src="https://i.ibb.co/k97Vkjp/M-M-Habib.png" alt="M.M Habib" width="20" height="10" border="0">
 
   </div>
 
