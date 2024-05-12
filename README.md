@@ -1,15 +1,10 @@
 Hi  My name is M.M Habib
 ==========================
-
+<div align="center">
 Full Stack Web Developer
 ------------------------
+<div/>
 
-<ul>
-  <li>
-    <span class="fas fa-envelope"></span>
-    <a href="mailto:mmhabib@example.com">Email: mmhabib@example.com</a>
-  </li>
-  </ul>
 
 ### Skills
 
