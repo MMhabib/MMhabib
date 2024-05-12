@@ -1,10 +1,14 @@
+<div id="banner">
+    <img src="banner.jpg" alt="M.M Habib - Web Developer Banner">
+  </div>
+
+
 Hi 👋 My name is M.M Habib
 ==========================
 
 Full Stack Web Developer
 ------------------------
 
-* 🌍  I'm based in Bangladesh
 
 ### Skills
 
