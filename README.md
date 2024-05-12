@@ -5,9 +5,11 @@ Full Stack Web Developer
 ------------------------
 
 <ul>
-      <li><a href="mailto:mmhabib@example.com">Email: mmhabib@example.com</a></li>
-      <li><a href="https://www.linkedin.com/in/mmhabib">LinkedIn: linkedin.com/in/mmhabib</a></li>
-      </ul>
+  <li>
+    <span class="fas fa-envelope"></span>
+    <a href="mailto:mmhabib@example.com">Email: mmhabib@example.com</a>
+  </li>
+  </ul>
 
 ### Skills
 
