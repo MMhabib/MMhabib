@@ -1,4 +1,8 @@
-<a href="https://ibb.co/0F7p8Tk"><img src="https://i.ibb.co/ZYjRt53/M-M-Habib.png" alt="M-M-Habib" style="display: flex; justify-content: center; align-items: center;"></a>
+<a href="https://ibb.co/0F7p8Tk">
+  <object data="https://i.ibb.co/ZYjRt53/M-M-Habib.png" type="image/png" style="width: 100%; height: 100%;">
+    <img src="placeholder.png" alt="M-M-Habib" style="width: 100%;">  </object>
+</a>
+
 
 Hi  My name is M.M Habib
 ==========================
