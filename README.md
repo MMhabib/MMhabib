@@ -1,5 +1,5 @@
 <div id="banner">
-    <img src="banner.jpg" alt="M.M Habib - Web Developer Banner">
+    <img src="[banner.jpg](https://ibb.co/0F7p8Tk)" alt="M.M Habib - Web Developer Banner">
   </div>
 
 
