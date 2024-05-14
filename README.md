@@ -1,4 +1,4 @@
-Hi 👋 My name is M.M Habib
+Hi  My name is M.M Habib
 ==========================
 
 Full Stack Web Developer
