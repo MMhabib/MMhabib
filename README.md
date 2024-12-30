@@ -7,7 +7,7 @@ Full Stack Web Developer
 
 - <a href="https://yourportfolio.com" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/sJDndBG/globe-295338-1280.png" alt="globe-295338-1280" width="12" height="14" alt="Portfolio" style="vertical-align: middle; margin-right: 8px;" ></a> [Portfolio](https://mm-habib-portfolio.web.app/)
 - <img src="https://i.ibb.co/18ykR8W/8fc37b74b608a622588fbaa361485f32.jpg" width="12" height="14" alt="8fc37b74b608a622588fbaa361485f32" style="vertical-align: middle; margin-top: 10px; " border="0"> habib.se56@gmail.com
-- <a href="https://drive.google.com/file/d/1vfQDaahKaSNncWmyrXMP28jwZWMtF-LS/view?usp=sharing" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/xhkM0DY/7515621.png" width="12" height="14" alt="Portfolio" style="vertical-align: middle; margin-top: 8px;" /></a> [Resume](https://docs.google.com/document/d/e/2PACX-1vQpZQq8XA7aNodiloIUW9DB5jRKMh6GVT8RHMP5CLWYP4pX-T3qQmTOLW5kdOphv2c8VxSZjU34Gw4O/pub](https://drive.google.com/file/d/1vfQDaahKaSNncWmyrXMP28jwZWMtF-LS/view?usp=sharing)
+- <a href="" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/xhkM0DY/7515621.png" width="12" height="14" alt="Portfolio" style="vertical-align: middle; margin-top: 8px;" /></a> [Resume](https://drive.google.com/file/d/1vfQDaahKaSNncWmyrXMP28jwZWMtF-LS/view?usp=sharing)
 
 
 ### Skills
